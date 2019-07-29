@@ -2,7 +2,7 @@ Django-todoapp
 Windows Command Prompt
 
 ```
-cd Django-Simple-CRUD-Sample
+current directry
 python -m venv env
 env\Scripts\activate
 pip install -r requirements.txt
